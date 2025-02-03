@@ -32,5 +32,3 @@ Este é um pequeno projeto que permite ao usuário inserir código HTML em uma `
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
-
----
