@@ -4,7 +4,7 @@ Este é um pequeno projeto que permite ao usuário inserir código HTML em uma `
 
 ## 📂 Estrutura do Projeto
 ```
-/seu-projeto
+/startHTML
 │── index.html   # Estrutura da página
 │── style.css    # Estilos da página
 └── script.js    # Lógica para abrir o HTML inserido em uma nova aba
