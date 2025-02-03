@@ -16,9 +16,9 @@ Este é um pequeno projeto que permite ao usuário inserir código HTML em uma `
 - JavaScript (Vanilla JS)
 
 ## 📌 Funcionalidades
-✅ Permite inserir código HTML em uma área de texto.
-✅ Executa o código HTML em uma nova aba ao clicar em um botão.
-✅ Interface responsiva e estilizada.
+- ✅ Permite inserir código HTML em uma área de texto.
+- ✅ Executa o código HTML em uma nova aba ao clicar em um botão.
+- ✅ Interface responsiva e estilizada.
 
 ## 📥 Como Usar
 1. Baixe ou clone este repositório.
