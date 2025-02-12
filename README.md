@@ -54,7 +54,7 @@ Este é um pequeno projeto que permite ao usuário inserir código HTML em uma `
       </style>
   </head>
   <body>
-      <div class="name" id="name">Gabriel</div>
+      <div class="name" id="name">Gabriel é Lindo <3</div>
       <script>
           document.addEventListener("mousemove", (event) => {
               const nameElement = document.getElementById("name");
