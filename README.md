@@ -45,10 +45,10 @@ Este é um pequeno projeto que permite ao usuário inserir código HTML em uma `
               position: absolute;
               font-size: 48px;
               font-weight: bold;
-              color: #00ffcc;
+              color: #000;
               font-family: Arial, sans-serif;
               pointer-events: none;
-              text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffaa;
+              text-shadow: 0 0 10px #ccc, 0 0 20px #333;
               transition: transform 0.1s linear;
           }
       </style>
